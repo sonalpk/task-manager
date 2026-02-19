@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task Manager Application
 
 A full-stack task management application built with **Spring Boot** (backend) and **Angular** (frontend), using an in-memory **H2** database.
@@ -300,3 +301,7 @@ This is a development-only configuration. For production:
 - Tests cover: page rendering, form validation, navigation, routing
 - Tests are designed to be runnable independently of the backend (validation tests)
 - Full CRUD tests require both servers running
+=======
+# task-manager
+task manager application 
+>>>>>>> af2cd7aff0657107f9ff00ddc99f7973ea8a456c
